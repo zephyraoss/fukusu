@@ -4,8 +4,9 @@
 fukusu is a middleman between the uploadthing package and your own storage bucket. this means you basically get the freedom to use any provider but with the incredible DX of uploadthing.
 
 > [!WARNING]
-> fukusu is still in active development. expect breaking changes.
-> currently, fukusu only supports Cloudflare R2.
+> <ins>fukusu is still in active development. expect breaking changes.</ins>
+> <ins>currently, fukusu only supports Cloudflare R2.</ins>
+> due to limitations with the Deploy to Cloudflare button, development is paused until we're able to release updates that you're able to apply easily.
 
 ## supported providers
 - [x] Cloudflare R2
